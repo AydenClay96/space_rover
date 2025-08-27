@@ -1,0 +1,20 @@
+# MATLAB/Simulink specific
+*.asv
+*.autosave
+*.mex*
+*.orig
+*.tmp
+*.bak
+*.slx.original
+*.slxc
+*.rslx
+
+# Simulink Cache and Code Gen folders
+slprj/
+*.slx.autosave
+.Simulink.cache/
+*_ert_rtw/
+*_grt_rtw/
+
+# MATLAB Project specific
+resources/
